@@ -1,0 +1,4 @@
+The Climate Change Database project aims to develop a website that provides resources and information related to climate change, events, and action items.
+The website also offers merchandise items that users can buy to support the site, as well as a donation system to support the organization.
+The website will allow users to register to contribute articles or links to events, and only registered users will be able to add comments.
+A small staff will validate the links, oversee donations, and ensure that the site is functioning smoothly.
